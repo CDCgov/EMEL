@@ -1,0 +1,77 @@
+Label_1,Label_2,Type
+Sample-60:1:1104:28049:17224_(reversed),Pond_60 (RepA),Pond
+Sample-64:1:1106:18613:15357,Pond_64,Pond
+Sample-55:1:2111:7085:24594,Pond_55 (RepA),Pond
+Sample-54:1:2106:3335:9109,Pond_54,Pond
+Sample-51:1:2101:3235:13279,Pond_51,Pond
+Sample-50:1:1112:11346:17708_(reversed),Pond_50,Pond
+Sample-36:1:2102:13530:23700,Pond_36 (RepA),Pond
+Sample-26:1:2106:17803:23946_(reversed),Pond_26,Pond
+Sample-13:1:2111:20924:7067,Pond_13 (RepB),Pond
+Sample-10:1:1104:17985:20097_(reversed),Pond_10,Pond
+Sample-08:1:1107:13951:24093_(reversed),Pond_08 (RepB),Pond
+Sample-03:1:2106:20171:14863_(reversed),Pond_03 (RepA),Pond
+Sample-01:1:2110:20444:13340_(reversed),Pond_01 (RepB),Pond
+Sample-03:1:1110:18107:27213,Pond_57,Pond
+Sample-28:1:2105:22654:13404,Pond_60 (RepB),Pond
+Sample-57:1:2106:24131:20958_(reversed),Pond_15,Pond
+Sample-23:1:1103:15296:9896,Pond_59 (RepA),Pond
+Sample-14:1:2107:17385:4004,Pond_59 (RepB),Pond
+Sample-60:1:1111:22338:11762_(reversed),Pond_14,Pond
+Sample-21:1:1112:27338:13149,Pond_28 (RepA),Pond
+Sample-25:1:2105:9750:21520,Pond_22 (RepB),Pond
+Sample-28:1:1114:19373:12671,Pond_27 (RepA),Pond
+Sample-07:1:1102:15010:9020,Pond_21,Pond
+Sample-22:1:1110:19751:26828,Pond_25,Pond
+Sample-27:1:2111:18403:17084,Pond_28 (RepB),Pond
+Sample-16:1:2104:4771:10549,Pond_07 (RepB),Pond
+Sample-58:1:1114:12179:23698,Pond_16,Pond
+Sample-59:1:2111:24166:18794_(reversed),Pond_58,Pond
+"Schellackia_orientalis_KC788221.1_extraction Schellackia orientalis 18S ribosomal RNA gene, partial sequence",Eimeria_arnyi_AY613853.1,Reference
+Sample-17:1:1105:13177:17753,Eimeria_tarentoli_KY419096.1,Reference
+Sample-42:1:2104:9201:3855,Eimeria_collieie_KJ700635.1,Reference
+Sample-48:1:1108:22688:11912_(reversed),Pond_17,Pond
+Sample-39:1:2114:17474:23848,Pond_23,Pond
+"Eimeria_arnyi_AY613853.1_extraction Eimeria arnyi 18S ribosomal RNA gene, partial sequence",Pond_01 (RepA),Pond
+"Eimeria_tarentoli_KY419096.1_extraction Eimeria tarentoli 18S ribosomal RNA gene, partial sequence",Pond_08 (RepA),Pond
+"Eimeria_collieie_KJ700635.1_extraction Eimeria collieie 18S ribosomal RNA gene, partial sequence",Pond_30,Pond
+Sample-27:1:1102:26069:19380,Pond_34,Pond
+"Caryospora_cheloniae_KT361639.1_extraction Caryospora cheloniae genotype 1 18S ribosomal RNA gene, partial sequence",Pond_35,Pond
+Sample-15:1:2111:9240:18437_(reversed),Pond_55 (RepB),Pond
+Sample-59:1:1112:8417:13558,Pond_52,Pond
+Sample-07:1:1111:16086:15447,Pond_02,Pond
+Sample-13:1:2110:22852:23966_(reversed),Schellackia_bolivari_KJ131415.2,Reference
+Sample-32:1:2101:25534:21800,Pond_27 (RepB),Pond
+Sample-19:1:1113:4721:9425,Schellackia_orientalis_KC788221.1,Reference
+Sample-36:1:2108:18804:14982,Pond_03 (RepB),Pond
+Sample-38:1:2104:23768:8166,Caryospora_cheloniae_KT361639.1,Reference
+Sample-29:1:1107:18624:14030_(reversed),Pond_42,Pond
+"Schellackia_bolivari_KJ131415.2_extraction Schellackia bolivari haplotype Ae-M 18S ribosomal RNA gene, partial sequence",Pond_48,Pond
+Sample-01:1:2102:4551:15843,Pond_39,Pond
+Sample-08:1:1102:12227:27529_(reversed),Pond_07 (RepA),Pond
+Sample-30:1:1112:27026:14501,Pond_13 (RepA),Pond
+Sample-34:1:2110:16476:17340,Pond_32,Pond
+Sample-35:1:2112:18427:23948_(reversed),Pond_19,Pond
+Sample-55:1:2103:12622:16835_(reversed),Pond_29,Pond
+Sample-02:1:2101:10022:15083,Pond_36 (RepB),Pond
+Sample-52:1:1109:8731:16271_(reversed),Pond_38,Pond
+Sample-71:1:1104:19856:6068,Sludge_71 (RepA),Sludge
+Sample-93:1:2105:6618:20834_(reversed),POS_93 (RepA),Control
+Sample-94:1:1101:8205:12401_(reversed),POS_94 (RepA),Control
+"Cyclospora_cayetanensis_NW_020312507_extraction Cyclospora cayetanensis isolate NF1_C8 unplaced genomic scaffold, CcayRef3 CcayRef3_contig_523, whole genome shotgun sequence",Cyclospora_cayetanensis_NW_020312507,Reference
+"Cyclospora_cayetanensis_AF111183.1_extraction Cyclospora cayetanensis 18S ribosomal RNA gene, complete sequence",Cyclospora_cayetanensis_AF111183.1,Reference
+Sample-71:1:1108:27579:11853,Sludge_71 (RepB),Sludge
+Sample-78:1:1102:20560:4776,Sludge_78,Sludge
+Sample-79:1:1110:29431:14392_(reversed),Sludge_79 (RepB),Sludge
+Sample-93:1:2110:21203:5693,POS_93 (RepB),Control
+Sample-94:1:2109:7913:3789,POS_94 (RepB),Control
+Sample-79:1:1101:19916:19855,Sludge_79 (RepA),Sludge
+"Eimeria_papillata_KT184350.1_extraction Eimeria papillata strain Chob3 18S small subunit ribosomal RNA gene, partial sequence",Eimeria_papillata_KT184350.1,Reference
+"Eimeria_jerfinica_KU192971.1_extraction Eimeria jerfinica isolate AA NJ23_CZ26 18S ribosomal RNA gene, partial sequence",Eimeria_jerfinica_KU192971.1,Reference
+Sample-87:1:2105:10028:15297,Sludge_87,Sludge
+"Isopora_streperae_KJ634021.1_extraction Isospora streperae 18S ribosomal RNA gene, partial sequence",Isospora_streperae_KJ634021.1,Reference
+Sample-47:1:1106:14436:23850,Pond_47,Pond
+"Eimeria_arizonensis_AF30787_extraction Eimeria arizonensis 18S ribosomal RNA gene, partial sequence",Eimeria_arizonensis_AF30787,Reference
+Sample-22:1:1106:20675:11627,Pond_22 (RepA),Pond
+"Eimeria_paludosa_KJ767187.1_extraction Eimeria paludosa isolate DMH01 18S ribosomal RNA gene, partial sequence",Eimeria_paludosa_KJ767187.1,Reference
+Sample-31:1:1109:27422:8203,Pond_31,Pond
