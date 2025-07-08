@@ -64,3 +64,14 @@ python FastqList.py -d . -s _duplicated.detail.txt -p 0.25
 ## Figures
 `18S_Dendrogram.md` rmarkdown to create dendrogram plot of most abundant taxa found in pond and sludge samples based on 18S gene sliced reads mapped to *C. cayetanensis* 18S gene region (655-807bp).
 
+## Metadata
+Org: Division of Foodborne Waterborne and Environmental Diseases, WDPB
+
+Version: 1.0.0 
+
+Status: Maintained
+
+Keywords: pathogen detection, next generation sequencing analysis, bioinformatics, genomics, metagenomics, parasitic disease, *Cyclospora cayetanensis*
+
+Contact Email: ncezid_shareit@cdc.gov
+
