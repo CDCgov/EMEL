@@ -18,4 +18,13 @@ Tutorial, code, and example data for analyzing microbial disinfection kinetics i
 
 <br />
 
+
+```md
+Org: Division of Foodborne, Waterborne, and Environmental Diseases
+Version: 1.9 
+Status: Maintained
+Keywords: disinfection, halogenation, biofilms, Flavobacteriaceae, opportunistic infections, disease outbreaks, Drug Resistance, bacteria, water, water supply, sanitation, environmental microbiology, chlorine, Elizabethkingia, antimicrobial resistance, kinetics  
+Contact Email: ncezid_shareit@cdc.gov
+```
+
 ## [EMEL repository](https://github.com/CDCgov/WDPB_EMEL/)
