@@ -51,4 +51,15 @@ python CV.py -d Test_dataset_depth -s _depth.txt -r NC_003197.2
 `Depth_plots.ipynb` create visual depth plots from samtools depth profile outputs. Use with Test_dataset_depth.
 
 ## Mansucript status
-In preparation
+In submission
+
+## Metadata
+Org: Division of Foodborne Waterborne and Environmental Diseases, WDPB
+
+Version: 1.0.0 
+
+Status: Maintained
+
+Keywords: pathogen detection, next generation sequencing analysis, bioinformatics, genomics, whole genome amplification, multiple displacement amplification, metagenomics, *Salmonella enterica*
+
+Contact Email: ncezid_shareit@cdc.gov
