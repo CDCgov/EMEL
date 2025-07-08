@@ -14,4 +14,13 @@
 
 <br />
 
+
+```md
+Org: Division of Foodborne, Waterborne, and Environmental Diseases
+Version: 4.1 
+Status: Maintained
+Keywords: microbial source tracking, quantitative polymerase chain reaction (qPCR), dead-end ultrafiltration (DEUF), predictive modeling, conditional random forest, agricultural water, fresh produce safety, foodborne illness  
+Contact Email: ncezid_shareit@cdc.gov
+```
+
 ## [EMEL repository](https://github.com/CDCgov/WDPB_EMEL/)
