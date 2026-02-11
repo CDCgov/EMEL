@@ -1,4 +1,4 @@
-# [Predicting Human Fecal Contamination of Produce Irrigation Water](https://cdcgov.github.io/WDPB_EMEL/manuscripts/irrigation_models/)
+# [Predicting Human Fecal Contamination of Produce Irrigation Water](https://cdcgov.github.io/EMEL/manuscripts/irrigation_models/)
 
 **R** code and data to conduct the analysis of human fecal contamination in produce irrigation ponds using predictive models that is reported in:
 
@@ -6,7 +6,7 @@
 
 <br />
 
-## [Manuscript repository](https://github.com/CDCgov/WDPB_EMEL/tree/main/manuscripts/irrigation_models)
+## [Manuscript repository](https://github.com/CDCgov/EMEL/tree/main/manuscripts/irrigation_models)
 
 [Analysis code (HTML report)](predict_irrigation_hf183.html)
 
@@ -17,10 +17,10 @@
 
 ```md
 Org: Division of Foodborne, Waterborne, and Environmental Diseases
-Version: 4.1 
+Version: 4.2 
 Status: Maintained
 Keywords: microbial source tracking, quantitative polymerase chain reaction (qPCR), dead-end ultrafiltration (DEUF), predictive modeling, conditional random forest, agricultural water, fresh produce safety, foodborne illness  
 Contact Email: ncezid_shareit@cdc.gov
 ```
 
-## [EMEL repository](https://github.com/CDCgov/WDPB_EMEL/)
+## [EMEL repository](https://github.com/CDCgov/EMEL/)
