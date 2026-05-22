@@ -12,7 +12,7 @@
 
 3. [Hofstetter J, Holcomb DA, Kahler AM, Rodrigues C, da Silva ALBR, Mattioli MC. (2024). Performance of conditional random forest and regression models at predicting human fecal contamination of produce irrigation ponds in the southeastern United States. *ACS ES&T Water*. https://doi.org/10.1021/acsestwater.4c00839](manuscripts/irrigation_models).
 
-4. [Arfken, A., Mercante, J., & Mattioli, M. (2025). Improved Sensitivity of Quantitative Polymerase Chain Reaction and Next Generation Sequencing for Detection of Salmonella spp. in Mixed Environmental Communities Using Whole Genome Amplification. *MicrobiologyOpen*, 14(6), e70194.]((manuscripts/WGA_Evaluation).
+4. [Arfken, A., Mercante, J., & Mattioli, M. (2025). Improved Sensitivity of Quantitative Polymerase Chain Reaction and Next Generation Sequencing for Detection of Salmonella spp. in Mixed Environmental Communities Using Whole Genome Amplification. *MicrobiologyOpen*, 14(6), e70194.https://doi.org/10.1002/mbo3.70194](manuscripts/WGA_Evaluation).
 
 <br />
 
