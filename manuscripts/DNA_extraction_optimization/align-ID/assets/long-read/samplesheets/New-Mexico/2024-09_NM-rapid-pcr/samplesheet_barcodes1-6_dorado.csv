@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,single_end,short_1,short_2
+barcode01-2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode01-2910C.fastq.gz,,true,,
+barcode02-2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode02-2910D.fastq.gz,,true,,
+barcode03-2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode03-2911C.fastq.gz,,true,,
+barcode04-2911D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode04-2911D.fastq.gz,,true,,
+barcode05-PTA,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode05-PTA.fastq.gz,,true,,
+barcode06-PTC,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/MinION-MC115266/New_Mexico/2024-09-06/trimmed/barcode06-PTC.fastq.gz,,true,,

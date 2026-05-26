@@ -1,0 +1,11 @@
+sample,fastq_1,fastq_2
+2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2910C_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2910C_R2.fastq.gz
+2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2910D_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2910D_R2.fastq.gz
+2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2911C_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2911C_R2.fastq.gz
+2911D,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2911D_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/2911D_R2.fastq.gz
+PTA,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/PTA_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/PTA_R2.fastq.gz
+PTC,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/PTC_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/PTC_R2.fastq.gz
+S2820C,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2820C_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2820C_R2.fastq.gz
+S2820D,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2820D_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2820D_R2.fastq.gz
+S2821C,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2821C_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2821C_R2.fastq.gz
+S2821D,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2821D_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/AMD_AVITI_TEST/RAW_Fastq/S2821D_R2.fastq.gz

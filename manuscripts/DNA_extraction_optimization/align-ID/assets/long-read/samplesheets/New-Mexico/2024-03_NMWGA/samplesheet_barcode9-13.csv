@@ -1,0 +1,6 @@
+sample,fastq_1,fastq_2,single_end
+barcode09-PA10,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/barcode09/FAW97429_pass_barcode09_bc5b794b_07a75852_combined.fastq.gz,,true
+barcode10-2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/barcode10/FAW97429_pass_barcode10_bc5b794b_07a75852_combined.fastq.gz,,true
+barcode11-2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/barcode11/FAW97429_pass_barcode11_bc5b794b_07a75852_combined.fastq.gz,,true
+barcode12-2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/barcode12/FAW97429_pass_barcode12_bc5b794b_07a75852_combined.fastq.gz,,true
+barcode13-2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/barcode13/FAW97429_pass_barcode13_bc5b794b_07a75852_combined.fastq.gz,,true

@@ -1,0 +1,12 @@
+sample,fastq_long
+01_2910C_barcode15,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode15.fastq.gz
+01_2910D_barcode16,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode16.fastq.gz
+01_2911C_barcode17,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode17.fastq.gz
+01_PA5_barcode18,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode18.fastq.gz
+02_2910C_barcode19,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode19.fastq.gz
+02_2910D_barcode20,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode20.fastq.gz
+02_2911C_barcode21,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode21.fastq.gz
+02_PA5_barcode22,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode22.fastq.gz
+UNK_2910C_barcode23,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode23.fastq.gz
+02_PTC_barcode24,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/barcode24.fastq.gz
+UNCLASS,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs/unclassified.fastq.gz

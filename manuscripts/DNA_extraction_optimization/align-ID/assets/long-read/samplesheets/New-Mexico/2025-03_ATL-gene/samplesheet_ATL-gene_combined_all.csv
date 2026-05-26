@@ -1,0 +1,8 @@
+sample,fastq_long
+2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/2910C_barcode15-19.fastq.gz
+2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/2910D_barcode16-20.fastq.gz
+2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/2911C_barcode17-21.fastq.gz
+PA5,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/PA5_barcode18-22.fastq.gz
+PTC,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/PTC_barcode24.fastq.gz
+UNK-2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/UNK-2910C_barcode23.fastq.gz
+UNCLASS,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis_RUSHER/data/reads/MinION-MC115266/New_Mexico/2025-03/ATL-gene/dorado_basecalled/fastqs-grouped/unclassified.fastq.gz

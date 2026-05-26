@@ -1,0 +1,9 @@
+sample,fastq_1,fastq_2
+F_S6,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Library_Prep/Run_17/TRIMMOMATIC/MERGED/3-01-250-F_S6_merged.fastq.gz,
+ML1_S1,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_33/TRIMMOMATIC/MERGED/ML1_S1_merged.fastq.gz,
+ML2_S2,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_33/TRIMMOMATIC/MERGED/ML2_S2_merged.fastq.gz,
+ML3_S3,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_33/TRIMMOMATIC/MERGED/ML3_S3_merged.fastq.gz,
+MPP1-1_S8,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_31/TRIMMOMATIC/MERGED/MPP1-1_S8_merged.fastq.gz,
+MPP2-1_S9,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_31/TRIMMOMATIC/MERGED/MPP2-1_S9_merged.fastq.gz,
+MPP3-1_S10,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Extraction_Treatments/Run_31/TRIMMOMATIC/MERGED/MPP3-1_S10_merged.fastq.gz,
+IDPCRF-150A_S1,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Metagenomics-Inc-199/Library_Prep/Run_19/TRIMMOMATIC/MERGED/IDPCRF-150A_S1_merged.fastq.gz,

@@ -1,0 +1,8 @@
+sample,fastq_1,fastq_2,single_end,short_1,short_2
+barcode17,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode17/barcode17_FAX01282_combined.fastq.gz,,true,,
+barcode18,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode18/FAX01282_barcode18_combined.fastq.gz,,true,,
+barcode19,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode19/barcode19_FAX01282_combined.fastq.gz,,true,,
+barcode20,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode20/barcode20_FAX01282_combined.fastq.gz,,true,,
+barcode21,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode21/barcode21_FAX01282_combined.fastq.gz,,true,,
+barcode22,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode22/barcode22_FAX01282_combined.fastq.gz,,true,,
+barcode23,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/new/barcode23/barcode23_FAX01282_combined.fastq.gz,,true,,

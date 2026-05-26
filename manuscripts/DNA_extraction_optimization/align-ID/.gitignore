@@ -1,0 +1,12 @@
+.nextflow*
+work/
+data/
+queue/*
+results/
+.DS_Store
+testing/
+testing*
+*.pyc
+scratch/
+rtq0.config
+temp/

@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,single_end
+barcode03,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/test/FAW99238_pass_barcode03_complete.fastq.gz,,true

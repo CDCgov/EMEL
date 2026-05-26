@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,single_end
+SRR28370642_e-coli,/scicomp/home-pure/rtq0/EMEL-GWA/Projects/Long_Read_Analysis/data/reads/SRA/ONT/e_coli/SRR28370642.fastq.gz,,true

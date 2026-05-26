@@ -1,0 +1,12 @@
+sample,fastq_1,fastq_2,single_end,short_1,short_2
+barcode10-PA10,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode10/FAW97429_pass_barcode10_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/PA10_S1_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/PA10_S1_L001_trimmed_R2.fastq.gz
+
+barcode11-2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode11/FAW97429_pass_barcode11_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2910C_S3_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2910C_S3_L001_trimmed_R2.fastq.gz
+
+barcode12-2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode12/FAW97429_pass_barcode12_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2910D_S4_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2910D_S4_L001_trimmed_R2.fastq.gz
+
+barcode13-2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode13/FAW97429_pass_barcode13_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2911C_S5_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2911C_S5_L001_trimmed_R2.fastq.gz
+
+barcode14-2911D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode14/FAW97429_pass_barcode14_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2911D_S6_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/2911D_S6_L001_trimmed_R2.fastq.gz
+
+barcode15-PTA,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode15/FAW97429_pass_barcode15_bc5b794b_07a75852_combined.fastq.gz,,true,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/NM-Patient-0004A_S7_L001_trimmed_R1.fastq.gz,/scicomp/groups-pure/WDPB/EMEL/Projects/NM_Amoeba/Short_Read/NM-Patient-0004A_S7_L001_trimmed_R2.fastq.gz

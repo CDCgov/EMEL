@@ -1,0 +1,2 @@
+sample,fastq_1,fastq_2,single_end,short_1,short_2
+barcode10-PA10,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode10/FAW97429_pass_barcode10_bc5b794b_07a75852_combined.fastq.gz,,true,,

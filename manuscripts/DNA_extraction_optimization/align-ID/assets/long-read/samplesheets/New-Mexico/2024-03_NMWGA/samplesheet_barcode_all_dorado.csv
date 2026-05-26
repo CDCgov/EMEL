@@ -1,0 +1,8 @@
+sample,fastq_1,fastq_2,single_end,short_1,short_2
+barcode09-LT2,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode09/FAW97429_pass_barcode09_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode10-PA10,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode10/FAW97429_pass_barcode10_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode11-2910C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode11/FAW97429_pass_barcode11_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode12-2910D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode12/FAW97429_pass_barcode12_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode13-2911C,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode13/FAW97429_pass_barcode13_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode14-2911D,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode14/FAW97429_pass_barcode14_bc5b794b_07a75852_combined.fastq.gz,,true,,
+barcode15-PTA,/scicomp/groups-pure/WDPB/EMEL/Projects/Long_Read_Analysis/data/reads/dorado/barcode15/FAW97429_pass_barcode15_bc5b794b_07a75852_combined.fastq.gz,,true,,

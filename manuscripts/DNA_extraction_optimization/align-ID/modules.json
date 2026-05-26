@@ -1,0 +1,47 @@
+{
+    "name": "scicomp/nfcoreskeleton",
+    "homePage": "https://github.com/scicomp/nfcoreskeleton",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {
+                    "chopper": {
+                        "branch": "master",
+                        "git_sha": "3f5420aa22e00bd030a2556dfdffc9e164ec0ec5",
+                        "installed_by": ["modules"]
+                    },
+                    "custom/dumpsoftwareversions": {
+                        "branch": "master",
+                        "git_sha": "911696ea0b62df80e900ef244d7867d177971f73",
+                        "installed_by": ["modules"]
+                    },
+                    "fastqc": {
+                        "branch": "master",
+                        "git_sha": "bd8092b67b5103bdd52e300f75889442275c3117",
+                        "installed_by": ["modules"]
+                    },
+                    "kraken2/kraken2": {
+                        "branch": "master",
+                        "git_sha": "653218e79ffa76fde20319e9062f8b8da5cf7555",
+                        "installed_by": ["modules"]
+                    },
+                    "multiqc": {
+                        "branch": "master",
+                        "git_sha": "911696ea0b62df80e900ef244d7867d177971f73",
+                        "installed_by": ["modules"]
+                    },
+                    "nanoplot": {
+                        "branch": "master",
+                        "git_sha": "a31407dfaf0cb0d04768d5cb439fc6f4523a6981",
+                        "installed_by": ["modules"]
+                    },
+                    "spades": {
+                        "branch": "master",
+                        "git_sha": "3f5420aa22e00bd030a2556dfdffc9e164ec0ec5",
+                        "installed_by": ["modules"]
+                    }
+                }
+            }
+        }
+    }
+}
