@@ -25,7 +25,7 @@
 
 ```md
 Org: Division of Foodborne, Waterborne, and Environmental Diseases
-Version: 1.3 
+Version: 1.4 
 Status: Maintained
 Keywords: antimicrobial resistance, surface water, environmental monitoring, E. coli, whole-genome sequencing, spatial stream network model  
 Contact Email: ncezid_shareit@cdc.gov
