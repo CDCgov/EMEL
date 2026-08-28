@@ -14,6 +14,8 @@
 
 4. [Arfken, A., Mercante, J., & Mattioli, M. (2025). Improved Sensitivity of Quantitative Polymerase Chain Reaction and Next Generation Sequencing for Detection of Salmonella spp. in Mixed Environmental Communities Using Whole Genome Amplification. *MicrobiologyOpen*, 14(6), e70194.https://doi.org/10.1002/mbo3.70194](manuscripts/WGA_Evaluation).
 
+5. [Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. *Journal of Water and Health*. https://doi.org/10.2166/wh.2026.219](manuscripts/river_ar) 
+
 <br />
 
 # CDCgov GitHub Open Source Related documents
