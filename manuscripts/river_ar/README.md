@@ -2,7 +2,7 @@
 
 **R** code and data to conduct the analysis of antimicrobial-resistant *E. coli* in river water that is reported in:
 
->  Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. *Submitted*.
+>  Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed.  *Journal of Water and Health* [https://doi.org/10.2166/wh.2026.219](https://doi.org/10.2166/wh.2026.219)
 
 <br />
 
