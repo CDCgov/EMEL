@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="David A Holcomb">
-<meta name="dcterms.date" content="2026-04-20">
+<meta name="dcterms.date" content="2026-08-28">
 
 <title>Environmental Monitoring for Antimicrobial Resistance in a Metropolitan Watershed</title>
 <style>
@@ -3530,7 +3530,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <div class="quarto-title-block"><div><h1 class="title">Environmental Monitoring for Antimicrobial Resistance in a Metropolitan Watershed</h1><button type="button" class="btn code-tools-button dropdown-toggle" id="quarto-code-tools-menu" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi"></i> Code</button><ul class="dropdown-menu dropdown-menu-end" aria-labelelledby="quarto-code-tools-menu"><li><a id="quarto-show-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Show All Code</a></li><li><a id="quarto-hide-all-code" class="dropdown-item" href="javascript:void(0)" role="button">Hide All Code</a></li><li><hr class="dropdown-divider"></li><li><a id="quarto-view-source" class="dropdown-item" href="javascript:void(0)" role="button">View Source</a></li></ul></div></div>
-<p class="subtitle lead">Version 1.3</p>
+<p class="subtitle lead">Version 1.4</p>
 </div>
 
 
@@ -3547,7 +3547,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 20, 2026</p>
+      <p class="date">August 28, 2026</p>
     </div>
   </div>
   
@@ -3563,7 +3563,7 @@ window.Quarto = {
 <h1>Description</h1>
 <p>This report provides <strong>R</strong> code to process the data and perform the analysis of antimicrobial-resistant <em>E. coli</em> in river water reported by:</p>
 <blockquote class="blockquote">
-<p>Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. <em>Submitted</em>.</p>
+<p>Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. <em>Journal of Water and Health</em>. <a href="https://doi.org/10.2166/wh.2026.219">https://doi.org/10.2166/wh.2026.219</a></p>
 </blockquote>
 <p>This analysis code and the study data are available in the manuscript <a href="https://github.com/CDCgov/EMEL/tree/main/manuscripts/river_ar">repository</a>. The whole-genome sequencing data are available from NCBI under <a href="http://www.ncbi.nlm.nih.gov/bioproject/1423195">BioProject PRJNA1423195</a> with accession numbers SRR55333857–SRR55334224.</p>
 <p><strong>Setup</strong></p>
@@ -7893,11 +7893,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class>
 <div class="sourceCode" id="cb139" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb139-1"><a href="#cb139-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
 <span id="cb139-2"><a href="#cb139-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> &quot;Environmental Monitoring for Antimicrobial Resistance in a Metropolitan Watershed&quot;</span></span>
-<span id="cb139-3"><a href="#cb139-3" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> 2026-04-20</span></span>
+<span id="cb139-3"><a href="#cb139-3" aria-hidden="true" tabindex="-1"></a><span class="an">date:</span><span class="co"> 2026-08-28</span></span>
 <span id="cb139-4"><a href="#cb139-4" aria-hidden="true" tabindex="-1"></a><span class="an">author:</span></span>
 <span id="cb139-5"><a href="#cb139-5" aria-hidden="true" tabindex="-1"></a><span class="co">  - name: David A Holcomb</span></span>
 <span id="cb139-6"><a href="#cb139-6" aria-hidden="true" tabindex="-1"></a><span class="co">    orcid: 0000-0003-4055-7164</span></span>
-<span id="cb139-7"><a href="#cb139-7" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> Version 1.3</span></span>
+<span id="cb139-7"><a href="#cb139-7" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> Version 1.4</span></span>
 <span id="cb139-8"><a href="#cb139-8" aria-hidden="true" tabindex="-1"></a><span class="an">csl:</span><span class="co"> numbered-bracket.csl</span></span>
 <span id="cb139-9"><a href="#cb139-9" aria-hidden="true" tabindex="-1"></a><span class="an">format:</span><span class="co">  </span></span>
 <span id="cb139-10"><a href="#cb139-10" aria-hidden="true" tabindex="-1"></a><span class="co">  html:</span></span>
@@ -7946,7 +7946,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb139-53"><a href="#cb139-53" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb139-54"><a href="#cb139-54" aria-hidden="true" tabindex="-1"></a>This report provides **R** code to process the data and perform the analysis of antimicrobial-resistant *E. coli* in river water reported by:</span>
 <span id="cb139-55"><a href="#cb139-55" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb139-56"><a href="#cb139-56" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. *Submitted*.</span></span>
+<span id="cb139-56"><a href="#cb139-56" aria-hidden="true" tabindex="-1"></a><span class="at">&gt; Holcomb DA, Cantrell ME, Feistel DJ, Meyer M, Sterling J, Chen J, Krishnan K, Im S, Folster JP, Kim J, Burroughs M, Nobles S, Stahl A, Mattioli MC. (2026). Environmental monitoring for antimicrobial resistance in a metropolitan watershed. *Journal of Water and Health*. </span><span class="co">[</span><span class="ot">https://doi.org/10.2166/wh.2026.219</span><span class="co">](https://doi.org/10.2166/wh.2026.219)</span></span>
 <span id="cb139-57"><a href="#cb139-57" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb139-58"><a href="#cb139-58" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb139-59"><a href="#cb139-59" aria-hidden="true" tabindex="-1"></a>This analysis code and the study data are available in the manuscript <span class="co">[</span><span class="ot">repository</span><span class="co">](https://github.com/CDCgov/EMEL/tree/main/manuscripts/river_ar)</span>. The whole-genome sequencing data are available from NCBI under <span class="co">[</span><span class="ot">BioProject PRJNA1423195</span><span class="co">](http://www.ncbi.nlm.nih.gov/bioproject/1423195)</span> with accession numbers SRR55333857--SRR55334224.</span>
